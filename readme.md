@@ -17,7 +17,7 @@ Future 是一个 Minecraft 跨版本 Mod 开发 API，或者说是开发框架�
 
 ## API
 下面是目前在设计中的 API，有其他需求可以在 issue 中讨论。  
-API 将使用 Kotlin 开发，并完全保证对 Java 的兼容。
+API 将使用 Kotlin + Java 混合开发，并完全保证对 Java 的兼容。
 
 - 方块
   - 方块
